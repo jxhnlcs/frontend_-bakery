@@ -67,9 +67,4 @@ Este projeto tem como finalidade:
 git clone https://github.com/jxhnlcs/frontend_bakery.git
 ```
 
-2. Navegue até a pasta do projeto:
-```bash
-cd padaria-doce-sabor
-```
-
-3. Abra o arquivo index.html no navegador ou acesse o site: https://padariadocesabor.vercel.app
+2. Abra o arquivo index.html no navegador ou acesse o site: https://padariadocesabor.vercel.app
