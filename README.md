@@ -72,4 +72,4 @@ git clone https://github.com/jxhnlcs/frontend_bakery.git
 cd padaria-doce-sabor
 ```
 
-3. Abra o arquivo index.html no navegador.
+3. Abra o arquivo index.html no navegador ou acesse o site: https://padariadocesabor.vercel.app
